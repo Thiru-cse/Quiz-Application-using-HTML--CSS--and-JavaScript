@@ -19,7 +19,7 @@ A simple yet interactive **Quiz Application** built with pure HTML, CSS, and Jav
 
 ## 📸 Live Preview
 
-> [[Optional](https://quiz-application-using-html-css-and-java-script.vercel.app/)]
+> [[Deployment Link](https://quiz-application-using-html-css-and-java-script.vercel.app/)]
 
 ---
 
